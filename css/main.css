@@ -66,6 +66,9 @@ p {
   font-weight: bold;
   font-size: 14px;
   text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  line-height: 40px;
   background-color: #20254b;
   color: #fdfbfe;
   border: 0;
